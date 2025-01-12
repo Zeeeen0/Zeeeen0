@@ -8,12 +8,12 @@
 
 
 ### Eximbay
-- **Offline Payment Devleoper**
+- **Offline Payment Developer**
 - Developed Tax Refund and O2O payment service using Java + Spring Boot + MySQL + AWS
 
 ### Lotte Members
 - **Server Developer**
-- Developed L.POINT application server and Parteners web platform using Java + Spring + PostgreSQL
+- Developed L.POINT application server and Partners web platform using Java + Spring + PostgreSQL
 
 ### BO Systems
 - **ERP Solution Developer**
