@@ -6,6 +6,13 @@
 
 </div>
 
+### Eximbay Offline Payment Devleoper
+- Developed Tax Refund and O2O payment service using Java + Spring Boot + MySQL + AWS
+- Reducing System failures by 80%
+- Improved Settlement Batch Processing (83% Increase in Operational Efficiency)
+- Established Jenkins CI/CD pipeline with AWS migration
+- Completed full migration of IDC servers to AWS infrastructure
+
 <div align=center>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
