@@ -9,7 +9,7 @@
 
 ### Eximbay
 - **Offline Payment Developer**
-- Developed Tax Refund and O2O payment service using Java + Spring Boot + MySQL + AWS
+- Developed Tax Refund and Wechat/Alipay service using Java + Spring Boot + MySQL + AWS
 
 ### Lotte Members
 - **Server Developer**
